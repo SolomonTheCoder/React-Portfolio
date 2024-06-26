@@ -32,10 +32,8 @@
   transition: all 1s;
 }
 
-.Nav-tags li:hover {
-  span {
-    width: 100%;
-  }
+.Nav-tags li:hover span {
+  width: 100%;
 }
 
 .Nav-tags a {
