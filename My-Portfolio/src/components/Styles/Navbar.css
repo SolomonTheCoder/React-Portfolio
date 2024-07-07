@@ -1,5 +1,5 @@
 .Nav-container {
-  background-color: #95d2b3;
+  background-color:#95d2b3;
 }
 
 .Navbar {
@@ -52,7 +52,7 @@
 }
 
 .Nav-button button:hover{
-    background-color: white;
-    color: #95d2b3;
-    transition: all 2ms;
+    border: #000000 2px solid;
+    color: #000000;
+    transition: ease-in-out 300ms;
 }
